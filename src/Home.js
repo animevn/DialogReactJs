@@ -47,7 +47,7 @@ function Home() {
                 </button>
               </div>
 
-              <h6 className="text-center">Content</h6>
+              <h6 className="text-center">Choose wisely</h6>
 
             </div>
 
